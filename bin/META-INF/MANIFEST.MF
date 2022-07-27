@@ -1,0 +1,456 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: jianghlu
+Created-By: Apache Maven 3.2.2
+Build-Jdk: 1.8.0_144
+
+Name: com/microsoft/windowsazure/core/pipeline/filter/ServiceRequestFi
+ lter.class
+SHA-256-Digest: jgA3rqpLBs0JSKYoADo7FhykyLKBl3NlxinNhEw2wJ4=
+
+Name: com/microsoft/windowsazure/core/Builder$Alteration.class
+SHA-256-Digest: MA9lhvWTQjYvQz5c0vXgw+8dsgMsmZxOd10kjD2AIhw=
+
+Name: com/microsoft/windowsazure/core/utils/EnumUtility.class
+SHA-256-Digest: ev4sHr/x7o6yuC1yoq0WTMxgnAmU7Qtyxrq5i7dn30U=
+
+Name: com/microsoft/windowsazure/management/configuration/Exports.clas
+ s
+SHA-256-Digest: CD5qpBrI3LdFKefin9Qcgcr9GKBT9dfqYmDUkXjFqIY=
+
+Name: com/microsoft/windowsazure/core/utils/Constants$AnalyticsConstan
+ ts.class
+SHA-256-Digest: Vu6JXcMBddRJsZVbLp+heXv2v7DLidFDLt0yWGmy48Q=
+
+Name: com/microsoft/windowsazure/core/utils/KeyStoreCredential.class
+SHA-256-Digest: E468Ii9ghk/ZdNG7ztCJkLhdxX2/+or6I+D9JT4+lXU=
+
+Name: com/microsoft/windowsazure/credentials/AdalAuthFilter.class
+SHA-256-Digest: sKbxMJGBPwpw/NKfpMnL0L0nM7jfEyJaMQ4v3nYpmuA=
+
+Name: com/microsoft/windowsazure/core/LazyHashMap.class
+SHA-256-Digest: YX1hAjQPufUaJlXl3vQN/17meNcj/5oA4MvpYxohRRc=
+
+Name: com/microsoft/windowsazure/tracing/CloudTracingInterceptor.class
+SHA-256-Digest: SJLzXd7XNCVbasJsVSfriF5mvMypbkPhlRlHRQYyBKw=
+
+Name: com/microsoft/windowsazure/tracing/ClientRequestTrackingHandler.
+ class
+SHA-256-Digest: nPGbr8jyxZPpr+SFv5jPvNV1A8kqpiRG/spAupGJJeI=
+
+Name: com/microsoft/windowsazure/core/utils/Constants$HeaderConstants.
+ class
+SHA-256-Digest: d0UKWTBAhDBgZASCmFhUhh5Tgy5kaZ7r33FUBFJgSeg=
+
+Name: com/microsoft/windowsazure/core/pipeline/filter/ServiceResponseF
+ ilter.class
+SHA-256-Digest: dlSyM1E4q5qDMuFQ44McGx0RDT6lPAFW6deN4s4Ly7o=
+
+Name: com/microsoft/windowsazure/core/utils/StreamUtils.class
+SHA-256-Digest: HAsEd/qs7Bwn4felIK8c8COfM1QFfvge3VqghkrP7n0=
+
+Name: com/microsoft/windowsazure/core/pipeline/apache/Exports$3.class
+SHA-256-Digest: Id2sWkSk9lwRvNXimmXd/Ds+eWEpblHSAE4w7v0RQrI=
+
+Name: com/microsoft/windowsazure/core/utils/DefaultDateFactory.class
+SHA-256-Digest: EEkCAxY5a8LQFXp9UWBfowJ/UA/ZmmGJeH1G16WbPkA=
+
+Name: com/microsoft/windowsazure/exception/ServiceException.class
+SHA-256-Digest: JSGgjsHtv6BuoRiNmdn+C3+U43zffn5GgUsSVDoqo+c=
+
+Name: com/microsoft/windowsazure/core/ResourceBaseExtended.class
+SHA-256-Digest: LuIBIUyD8gwpMdJlXcKqRcJKJcK1FwnvHUvuZS1BMwk=
+
+Name: com/microsoft/windowsazure/exception/ServiceExceptionFactory.cla
+ ss
+SHA-256-Digest: IEA22atKKv5JCLJZGmm4hEMUDSPQTQ/9aRLXpK2/9WU=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/Exports$2.class
+SHA-256-Digest: KtQNnG6O6UyDxUwOD/zvuGqzBBeRc9jtAXR8uz4RDDg=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/Exports.class
+SHA-256-Digest: vnQNaDckLgJ/C8s5t6heaNPcgyeN11Ayx5GP8NJKa5c=
+
+Name: com/microsoft/windowsazure/core/utils/Base64.class
+SHA-256-Digest: SXTqsqb8+FkKKC40rY5j6C2yUF5TyrNhacgTkGzStY8=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/HttpURLConnectio
+ nClientHandler$BufferingOutputStream.class
+SHA-256-Digest: OjuMlI6yCWBZylHROI6B2c5/kjXzd1CpdAZFGddXa/Y=
+
+Name: com/microsoft/windowsazure/core/ResourceBase.class
+SHA-256-Digest: kbEbBQOLDhsK/1aSU4+SZotY6eP0XPoygKQGmmMZbtY=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/ServiceFilter.cl
+ ass
+SHA-256-Digest: byY9OlQnW5DMYr+ZCXp/xFRbR4gW3CmOxHTmOPpiDpE=
+
+Name: com/microsoft/windowsazure/core/pipeline/Base64StringAdapter.cla
+ ss
+SHA-256-Digest: ubCPLRrlANjbdWlxgRpu5E4blAPORY6XiIT16/SFNYA=
+
+Name: com/microsoft/windowsazure/credentials/Exports$1.class
+SHA-256-Digest: jRjfrH+P8O7ttoZqamUU7dLPo9yz/jbMaJ3xtINPUCU=
+
+Name: com/microsoft/windowsazure/core/utils/SSLContextFactory.class
+SHA-256-Digest: Lx1cWQyfymZFhgoPgODMxss8G6hVI1/6slawwqADdE8=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/HttpURLConnectio
+ nClientHandler$URLConnectionResponse.class
+SHA-256-Digest: HS6eEwRuV84/zsZ9C6WjcZg0O20Rg3Fx653u0dE6b2U=
+
+Name: com/microsoft/windowsazure/tracing/CloudTracing.class
+SHA-256-Digest: wJc9YakztBhykXdrvInakgWf/Vyo1md1Tw1viJGWs54=
+
+Name: com/microsoft/windowsazure/core/ServiceClient.class
+SHA-256-Digest: eH3aQA5vp3YmQ8RNBPIMXoTbV16OWJ6Wzu1hs9xX/RU=
+
+Name: com/microsoft/windowsazure/core/TimeSpan8601Converter.class
+SHA-256-Digest: HT9jc5BmuWHi2tLUtEKKRz2IItjoxMh7Go8aWwGbu4A=
+
+Name: com/microsoft/windowsazure/core/FilterableService.class
+SHA-256-Digest: QE7JpYLD4yDfM7Q+2PZU2LPOSEaIcxYkHTgl2JKiPAM=
+
+Name: com/microsoft/windowsazure/core/utils/InputStreamDataSource.clas
+ s
+SHA-256-Digest: Gk3wuQNiQRif88x8RvaxM7O/ETbMkIfCpmlU48/24oY=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/JerseyFilterable
+ Service.class
+SHA-256-Digest: lQ3+VXNnirDfUQVTAO/yXfZdak7anCbLBiqVqrDdgRQ=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/ServiceFilter$Ne
+ xt.class
+SHA-256-Digest: mp3EanVYkgneqzEjDvxNYA11cxzQ1cQHej9JlrsLD1g=
+
+Name: com/microsoft/windowsazure/core/Builder$Exports.class
+SHA-256-Digest: Z/iT8tQXqKH/SX/kCYDTtQbvzuLOHjdT4t0O9tMaWbQ=
+
+Name: com/microsoft/windowsazure/core/utils/ExportUtils.class
+SHA-256-Digest: Jiu73RAX1g6fkqezjE7Fcf3JC/NoCryMycNOjxa8rfw=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/JerseyServiceReq
+ uestContext.class
+SHA-256-Digest: hTyWT9KnvMIIHM/doRjsmFTicSRpbHMfEz5J5TprjBs=
+
+Name: com/microsoft/windowsazure/core/Builder.class
+SHA-256-Digest: Lg9ZgcJofxXz5Ov/6gDls/muBEExZTzgixR7HCTPqLY=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/ClientConfigSett
+ ings.class
+SHA-256-Digest: NzTELw1ylzZnRMD+bKluXDRC3NB6qit0hInMmcbToEU=
+
+Name: com/microsoft/windowsazure/core/pipeline/apache/HttpResponseInte
+ rceptorFrontAdapter.class
+SHA-256-Digest: TzwdVZSurZdV1uIpYtksQbVDWSO1pLsW/1nxvhTXY6s=
+
+Name: com/microsoft/windowsazure/core/pipeline/apache/HttpResponseInte
+ rceptorBackAdapter.class
+SHA-256-Digest: 81Koh4JL9RrVo17EOJXZ6p2yx0uuKW2lZKLRm5csjDI=
+
+Name: com/microsoft/windowsazure/core/pipeline/filter/ServiceRequestCo
+ ntext.class
+SHA-256-Digest: bXXKUPfSrSwvAtjbXauV/UNR5xZLsNVVbbJejs/YZw4=
+
+Name: com/microsoft/windowsazure/core/Builder$Registry.class
+SHA-256-Digest: 4HWBLeQ4BWZCE95kY7AIEJY6829hd3tx2fTFFHzTsP0=
+
+Name: com/microsoft/windowsazure/core/pipeline/apache/HttpServiceRespo
+ nseContext.class
+SHA-256-Digest: ugiK5nn1adKVSgGqaQtzdpWszjo1iYbE5GxD4bl3c4o=
+
+Name: com/microsoft/windowsazure/core/pipeline/apache/Exports.class
+SHA-256-Digest: Y3spmFkmNIheEcmBD40w8SFUHuvT6gQuEo5Jz3LcQK4=
+
+Name: com/microsoft/windowsazure/core/pipeline/ConnectionStringField.c
+ lass
+SHA-256-Digest: A/nNdmObE6nvKpBIRe/8zAtBN6kjKihJreA2j1wSbbk=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/Exports$3.class
+SHA-256-Digest: eoZMDO94iEL2Ssvic/YI6eFaoxlb+Yi9CvWqUZ9jqcQ=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/ProxyConnectionF
+ actory.class
+SHA-256-Digest: z/oiZa5KH/x3dPGPNisN8EjkgiYy6+IiI2zaqZ1NYHI=
+
+Name: com/microsoft/windowsazure/core/pipeline/apache/HttpServiceReque
+ stContext.class
+SHA-256-Digest: HZkIH9kqmxsPqnjtGQ3rtHjjpFF1npt7hrj29BXxf3E=
+
+Name: com/microsoft/windowsazure/core/utils/XmlUtility.class
+SHA-256-Digest: NukimNbxWKCTH6XHuGuABjrvYyXBm3ok6lBO5Gd5/es=
+
+Name: com/microsoft/windowsazure/core/pipeline/apache/HttpResponseInte
+ rceptorAdapter.class
+SHA-256-Digest: EALQcFW0Bn7w6QSwF/hfraiAFUvr8d6R7/9a/1OniMI=
+
+Name: com/microsoft/windowsazure/core/utils/SSLContextFactory$1.class
+SHA-256-Digest: 6e5LOSFrwFRnVLBP6tf677xKYpjdZA+83DXDf/p6mwU=
+
+Name: com/microsoft/windowsazure/core/pipeline/apache/HttpRequestInter
+ ceptorFrontAdapter.class
+SHA-256-Digest: em9cBqSvAsi+vH+LGR6eJ6pPSNUg9Z3TfQDYzM7gdXU=
+
+Name: com/microsoft/windowsazure/credentials/CloudCredentials.class
+SHA-256-Digest: fKlPK+GuvVBegtS1asyGviLaSubmKHzGZA7drU8wZk8=
+
+Name: com/microsoft/windowsazure/core/DefaultBuilder.class
+SHA-256-Digest: sPwEQFe+UDbpph9uU8b/kIhv+WtfP698xiRUfRbIudg=
+
+Name: com/microsoft/windowsazure/core/pipeline/apache/FilterIntercepto
+ r.class
+SHA-256-Digest: qhhvJPSTvam8hEPdj9MGwOshixLqNTtkN/6rxFHeBcI=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/HttpURLConnectio
+ nClientHandler$2.class
+SHA-256-Digest: 7k9ieR/Iem9ZRtjqzSBoWr4DwWSOC9wrZQi/IGzIBdQ=
+
+Name: com/microsoft/windowsazure/credentials/Exports.class
+SHA-256-Digest: n4BAAsKzJcdkgLgy41eWSV6OxJsJkUAF7FznNm1FA28=
+
+Name: com/microsoft/windowsazure/core/DefaultBuilder$1.class
+SHA-256-Digest: USjvZll+voq755zegjVEYUuR8cWZcvoaX/U+3+K3aZE=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/ClientFilterAdap
+ ter$1.class
+SHA-256-Digest: erNmoiKAe7pN53/u/bQtbS4ZhMl9tv1moudqhlLwFUc=
+
+Name: com/microsoft/windowsazure/core/ISO8601DateConverter.class
+SHA-256-Digest: 8CMwS9kh7Lg/Q7GC9arjwOi4mjl9ygjv5TO+7qWG7so=
+
+Name: com/microsoft/windowsazure/core/OperationStatusResponse$ErrorDet
+ ails.class
+SHA-256-Digest: 01ISq6Yq2/X6ll8fK84AfmoKnEJHVQCkTyOLMhYNr5c=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/HttpURLConnectio
+ nClientHandler$StreamingOutputStream.class
+SHA-256-Digest: APvRiBItaMKNgUh9D8J8k50SykWOlMitctZ1QaQPKLk=
+
+Name: com/microsoft/windowsazure/core/utils/DateFactory.class
+SHA-256-Digest: Fmo2Z4zfldivPZdmNENWk1hVvoEGJuRyQb2Rr767SLg=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/ExponentialRetry
+ Policy.class
+SHA-256-Digest: FMysn4EjaiKyb86F73ayMCBWax4/014QSVGfBpAZknw=
+
+Name: com/microsoft/windowsazure/core/ServiceOperations.class
+SHA-256-Digest: g70arKUEtIeJ8Q+ML1CDsVtrZMZE7UoUfJFzICi69B0=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/ClientFilterAdap
+ ter.class
+SHA-256-Digest: 2sVg0hoSu6uyk5Vtg347V3jmILvYWPsB3JV+SbEqIjM=
+
+Name: com/microsoft/windowsazure/core/Builder$Factory.class
+SHA-256-Digest: V8eN6yG/dNU69I9rt3MdOr7nvHoygBUTmoXiq8za9dM=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/Exports$4.class
+SHA-256-Digest: EShUpnIw2e5qSWDozHsqBjP8SjlOLclP/+DW5Kz2r4M=
+
+Name: com/microsoft/windowsazure/core/utils/Exports$1.class
+SHA-256-Digest: TzT+ZNEODfsSfn5UhOP4WW4ISSg9/TmdVUGbNW+PuhA=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/ClientFilterRequ
+ estAdapter.class
+SHA-256-Digest: RYXg+b9NhEPjEqXfpun+FhbDCnUQDtV2MJ2mharDL3Q=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/HttpURLConnectio
+ nClient.class
+SHA-256-Digest: SNokcrWxlE3PL8w3k6DMJxmKYspvzIH2KH08vCs85qQ=
+
+Name: com/microsoft/windowsazure/core/utils/BOMInputStream.class
+SHA-256-Digest: /MjiZ03gb/TuxsygBsi45AOFH9bcsFfTBHiTp25kgSU=
+
+Name: com/microsoft/windowsazure/core/utils/CollectionStringBuilder.cl
+ ass
+SHA-256-Digest: YE1yX2PlO4ZN7E4mf6FUCiYFXvN5RT9kjU/GUMQdJSk=
+
+Name: com/microsoft/windowsazure/core/utils/ConnectionStringSyntaxExce
+ ption.class
+SHA-256-Digest: RqElRObsGOnJQHgoutNA5JiYMgGKgU2rMySJndGDNnk=
+
+Name: com/microsoft/windowsazure/core/ServiceTimeoutException.class
+SHA-256-Digest: u5VvomJGKOlmGqkpBv2di1bQEDy0vbsqfMdmcbTNZKA=
+
+Name: com/microsoft/windowsazure/core/utils/Constants.class
+SHA-256-Digest: bILqFSz2qFFGdGR1GRf78XF3lV6PH39jyoY0/aSErws=
+
+Name: com/microsoft/windowsazure/core/OperationStatusResponse.class
+SHA-256-Digest: 7SaYYFYTqWf8/HO1GoifQMsC70nHn7ifwEGuFAenHdU=
+
+Name: com/microsoft/windowsazure/core/pipeline/apache/Exports$1.class
+SHA-256-Digest: TSU3bP0ZKTWgJYnUaTiHo5kGhBC8/jsqvDm09QXX/JU=
+
+Name: com/microsoft/windowsazure/core/utils/Exports.class
+SHA-256-Digest: pz+UhRzErrB/GLXkdKFDTiT86SNN4X0gYu0jsJNip3Q=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/Exports$1.class
+SHA-256-Digest: rpJixJryWiFWoRr855doWhZnay63eD7lWLfVKe+WUbc=
+
+Name: com/microsoft/windowsazure/core/utils/Utility.class
+SHA-256-Digest: eKRl7mduk51YmByNcDpKsKHFmziWapT+x0Ay/KHbcrk=
+
+Name: com/microsoft/windowsazure/core/utils/BOMInputStream$BOM.class
+SHA-256-Digest: YtQIPfqfcbXDUAjh/VpkaqVln63mqp/Gp0XHAXIP9BM=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/HttpURLConnectio
+ nClientHandler$1.class
+SHA-256-Digest: f/IfSrSbI/TpShNQX1Jws5LEP03Ob7hSf/RfTZxtzhk=
+
+Name: com/microsoft/windowsazure/core/utils/ParsedConnectionString.cla
+ ss
+SHA-256-Digest: U2MHkrhvTghkoepwuzDKBRzyPCKQh+K61q66pyb9e/8=
+
+Name: com/microsoft/windowsazure/ConfigurationException.class
+SHA-256-Digest: PsmCbfWXJiVL8DV63Y2m3ws0dT4wOFam4+c+t1nev2A=
+
+Name: com/microsoft/windowsazure/core/LazyCollection.class
+SHA-256-Digest: Vbtax1W6A2HFupXv8irMXo4+Yo6j10aoGBvlCCwCKtE=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/JerseyServiceRes
+ ponseContext.class
+SHA-256-Digest: N0uxYkKsXapYt9Ky4O9pxFpw6SpPXNdIcCiZu6hi2W0=
+
+Name: META-INF/services/com.microsoft.windowsazure.core.Builder$Export
+ s
+SHA-256-Digest: KciG1pnlHQKvSX0q0cg86scyp/jAM54vHGTE4R5r6fw=
+
+Name: com/microsoft/windowsazure/credentials/CertificateCloudCredentia
+ ls.class
+SHA-256-Digest: BR7E4iZlzMzebLY46DQ1jXrK+73lYTrah/4oxHGypF8=
+
+Name: com/microsoft/windowsazure/core/pipeline/apache/HttpHeaderRemova
+ lFilter.class
+SHA-256-Digest: rVDOWNtdFB4YeeHwC+5ZBIpeqc1Ro/L4tS4e7o8W+CU=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/HttpURLConnectio
+ nClientHandler.class
+SHA-256-Digest: whjq4TpM/bf+IU4Up4EtOaCuucwZ3+aBD+uV3zM/BO4=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/EntityStreamingL
+ istener.class
+SHA-256-Digest: ne6wWXvVp3fDmLBRXKHmiGU/PlCORvYwYjZogtMXxzM=
+
+Name: com/microsoft/windowsazure/core/UserAgentFilterAdapter.class
+SHA-256-Digest: srdxBfYbGhIU1vOg4BvKSu2VwrL3A0YxpnpI5y9a0a8=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/RetryPolicy.clas
+ s
+SHA-256-Digest: 1G36CbVzeeIyLa/FJHujpfgsNZyQ7vSDjyi60UEOw1E=
+
+Name: com/microsoft/windowsazure/credentials/SubscriptionCloudCredenti
+ als.class
+SHA-256-Digest: IwqtbiUHnugUCUXZFmv+l1W7oMTncTLrTlpepxcCnPE=
+
+Name: com/microsoft/windowsazure/core/utils/AccessConditionHeader.clas
+ s
+SHA-256-Digest: hYo6RG/pou/7c5lwikuU8ZazeNFDcOnkCXnyOc6/c+E=
+
+Name: com/microsoft/windowsazure/core/pipeline/apache/Exports$2.class
+SHA-256-Digest: D5KoiY/4aoXyc+DiperA48T93xdp9tujReHVJ5Ey2WU=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/IdempotentClient
+ Filter.class
+SHA-256-Digest: qFVnkqyP1U949Bd+tPsN9YaoafhjKdimn6637X46/ss=
+
+Name: com/microsoft/windowsazure/core/pipeline/apache/HttpRequestInter
+ ceptorBackAdapter.class
+SHA-256-Digest: vLaqD40JGx2yQwlwuikmX5/YI4WVp72qsarDSr9fBXk=
+
+Name: com/microsoft/windowsazure/core/utils/KeyStoreType.class
+SHA-256-Digest: q+AIHP9uHAznMz750DM3jOIYmNncF7KCAKNBvE9y0PA=
+
+Name: com/microsoft/windowsazure/core/pipeline/apache/ApacheConfigurat
+ ionProperties.class
+SHA-256-Digest: PP7Zp4XeNaxSjMnEcbSGI9oukiD1tKi/LqSxZKjzdPs=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/RetryPolicyFilte
+ r.class
+SHA-256-Digest: aUXCSfUSOy7jiM3GIi01IIky9mM1nXCXr5T+0diHCGI=
+
+Name: com/microsoft/windowsazure/exception/CloudError.class
+SHA-256-Digest: 4Ezln2V2016kKkMHrsvmJQoWmIvWHMLjnyJt2qtOL8k=
+
+Name: com/microsoft/windowsazure/core/utils/Constants$QueryConstants.c
+ lass
+SHA-256-Digest: vRZ/qEhzMvm7nXjb6byOEOKLqA+JcMdj+V7hASx0wEM=
+
+Name: com/microsoft/windowsazure/core/ResourceIdentity.class
+SHA-256-Digest: PLUJ959u2e6i10wS0QEHhlkxqXBY4mZ1W2+nh/ECYwU=
+
+Name: com/microsoft/windowsazure/Configuration.class
+SHA-256-Digest: Je2xXNRU7zGu3Vl3deIabuc60QLf8VGUZvpyZe+6gig=
+
+Name: com/microsoft/windowsazure/core/utils/AccessConditionHeaderType$
+ 1.class
+SHA-256-Digest: GhGJYL/BIbvTPixt9sId5SOBdETdF8XbkJUuLz9soUE=
+
+Name: com/microsoft/windowsazure/core/RFC1123DateAdapter.class
+SHA-256-Digest: bDY5sHKBsko2PcBmuGzSaHdFBWUJwrHIMLMm7zkvgN0=
+
+Name: com/microsoft/windowsazure/management/configuration/ManagementCo
+ nfiguration.class
+SHA-256-Digest: lA2vyV0CwtBvBlGIPicD4nRi68jwTqNUpo209b9T29Y=
+
+Name: com/microsoft/windowsazure/credentials/TokenCloudCredentials.cla
+ ss
+SHA-256-Digest: RjRTBJnsapmwryLF8g0jXrlkBmsXz6Vq/9htV5/DvGA=
+
+Name: com/microsoft/windowsazure/core/pipeline/apache/ApacheConfigSett
+ ings.class
+SHA-256-Digest: 2qcPKzMrQGzE2cfLgfqK+rvOJyTKq8U6afqWantA548=
+
+Name: com/microsoft/windowsazure/core/OperationResponse.class
+SHA-256-Digest: xs49YWQmUdzEySmMtjOYI4H7GnRtMT3rJWZpiv4b/Hw=
+
+Name: com/microsoft/windowsazure/core/pipeline/apache/CustomHttpDelete
+ .class
+SHA-256-Digest: Qgk0W5FwJWnKggGYpEs6m/fp1VoR0NkqlUXQpu/+Hx0=
+
+Name: com/microsoft/windowsazure/core/pipeline/PipelineHelpers$1.class
+SHA-256-Digest: QsGdkHM6fN2rIFKWudM1t5Vt7iPUlwbPw7QuQLf3CvQ=
+
+Name: com/microsoft/windowsazure/core/pipeline/apache/HttpRequestInter
+ ceptorAdapter.class
+SHA-256-Digest: 4RVMqqG8yb3dJXlpFGEkTy5qEhxsgD4xREXF2K7Xfbk=
+
+Name: com/microsoft/windowsazure/management/configuration/PublishSetti
+ ngsLoader.class
+SHA-256-Digest: oro7A6tZnxPCLEQ7++0kDkNn6ky721GYSxsrPtlF2d8=
+
+Name: com/microsoft/windowsazure/core/OperationStatus.class
+SHA-256-Digest: 987mZv21qCYuwOq6Zbdrz03GuHXzS+wa6oirGe0963k=
+
+Name: com/microsoft/windowsazure/core/pipeline/jersey/ClientFilterResp
+ onseAdapter.class
+SHA-256-Digest: AOpz9Mul3ZJaaoBDHb6vmG9m88dnZ0LHMMmn0cVtBds=
+
+Name: com/microsoft/windowsazure/core/utils/AccessConditionHeaderType.
+ class
+SHA-256-Digest: /lJR3jMD44CnrPWzNOH6SOYP3DrtFsbMB8G3pNVXFQc=
+
+Name: META-INF/maven/com.microsoft.azure/azure-core/pom.xml
+SHA-256-Digest: 1oaA0hQwU6xrW1v8cWrb6PVSIwTGmXU6SRhWKzsOAWs=
+
+Name: com/microsoft/windowsazure/core/pipeline/PipelineHelpers.class
+SHA-256-Digest: Ktb7/yd07yeQFKj0+E183pyggWKH3tWimEnmG8GBtqA=
+
+Name: com/microsoft/windowsazure/core/RFC1123DateConverter.class
+SHA-256-Digest: rlH9abQQnx9h29X5Vf3KBENhEDwIDiXa1cjI90nwvzI=
+
+Name: com/microsoft/windowsazure/core/LazyArrayList.class
+SHA-256-Digest: qO5V2kamzRTiiDi2I/d+Nu+DCsUsI+Jv6da2Mdmwpq8=
+
+Name: com/microsoft/windowsazure/management/configuration/Exports$1.cl
+ ass
+SHA-256-Digest: cJwkN8RBXJypKCEbqXEGYRL8SooKa1q1gnNlxClinXY=
+
+Name: com/microsoft/windowsazure/core/UserAgentFilter.class
+SHA-256-Digest: iRGear717Z6OuQTncqEoLs3eTFzvACdlrIsFMQElx8Q=
+
+Name: META-INF/maven/com.microsoft.azure/azure-core/pom.properties
+SHA-256-Digest: /iyYQ4iOD5woP68qiSYWAc0M5YF+F6WXV7QyNRBmDHA=
+
+Name: com/microsoft/windowsazure/core/pipeline/filter/ServiceResponseC
+ ontext.class
+SHA-256-Digest: GNytcn5G9STlVezRdfeZ7e+RobdjmZ3uN/br6VfZID8=
+
